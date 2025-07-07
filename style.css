@@ -1,6 +1,12 @@
 body {
+    background-color: rgb(226, 195, 255);
+    text-align: center;
+}
 
-    background-color: deeppink;
-    font-style: italic;
+p {
+    color:rgb(154, 48, 196);
+}
 
-};
+h1 {
+    font-style:italic;
+}
