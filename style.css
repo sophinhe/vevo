@@ -6,7 +6,8 @@ body {
 
 h1 {
 
-   
+   color: rgb(255, 239, 21);
+
   font-family: "Bitcount", system-ui;
   font-optical-sizing: auto;
   font-weight: <weight>;
